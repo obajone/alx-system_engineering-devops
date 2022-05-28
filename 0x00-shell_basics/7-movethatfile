@@ -1,0 +1,3 @@
+#!/bin/bash
+mv Betty my_first_directory/
+
